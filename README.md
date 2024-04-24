@@ -131,13 +131,13 @@ $ \text{Gross Margin} = \frac{\text{gross income}}{\text{total revenue}} $
 
 **Data given:**
 
-- $ \text{Unite Price} = 45.79 $
-- $ \text{Quantity} = 7 $
+- $ \text{Unite Price} = 50.7 $
+- $ \text{Quantity} = 5 $
 
-$ COGS = 45.79 * 7 = 320.53 $
+$ COGS = 50.7 * 5 = 253.5 $
 
-$ \text{VAT} = 5\% * COGS\\= 5\%  320.53 = 16.0265 $
+$ \text{VAT} = 5\% * COGS\\= 5\%  253.5 = 12.675 $
 
-$ total = VAT + COGS\\= 16.0265 + 320.53 = $336.5565$
+$ total = VAT + COGS\\= 12.675 + 253.5 = $266.175$
 
-$ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\\=\frac{16.0265}{336.5565} = 0.047619\\\approx 4.7619\% $`
+$ \text{Gross Margin Percentage} = \frac{\text{gross income}}{\text{total revenue}}\\=\frac{12.675}{253.5} 
